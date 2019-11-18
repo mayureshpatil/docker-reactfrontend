@@ -9,10 +9,11 @@ function App() {
         <img src={logo} className="App-logo" alt="logo" />
         <p>
           Edit <code>src/App.js</code> and save to reload.
+          hi there last time <h1>bye for this time</h1>
         </p>
         <a
           className="App-link"
-          href="https://reactjs.org"
+          href="https://google.com"
           target="_blank"
           rel="noopener noreferrer"
         >
